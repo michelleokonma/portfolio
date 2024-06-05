@@ -1,0 +1,78 @@
+/* CSS HEX */
+/*
+--taupe: #463f3aff;
+--rosy-brown: #be9d9dff;
+--fairy-tale: #f5ccd8ff;
+--magnolia: #f7effaff;
+--lavender-web: #d8d4edff;
+*/
+
+/* GLOBAL STYLES
+------------------ */
+body{
+    background-color: #be9d9dff;
+}
+
+/*links*/
+a:hover {
+    color: #f7effaff;
+    text-decoration: none;
+}
+
+a {
+    color: #d8d4edff;
+}
+
+footer a {
+    color: #f7effaff;
+}
+
+footer a:hover {
+    color: #d8d4edff;
+}
+
+.btn {
+    background: #463f3aff;
+}
+
+.btn:hover {
+    text-decoration: none;
+}
+
+/* HOME
+------------------ */
+.home {
+    background: url(../bg.png) no-repeat;
+    background-size: cover;
+}
+
+.container {
+    background: rgba(150, 150, 150, .9);
+}
+
+/* RESUME
+------------------ */
+
+
+/* Profile
+------------------  */
+
+
+/* Projects
+------------------  */
+
+
+/* Work Experience
+------------------  */
+
+
+/* Education
+------------------  */
+
+
+/* FOOTER
+------------------ */
+
+footer {
+    background: #463f3aff;
+}
